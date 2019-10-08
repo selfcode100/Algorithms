@@ -1,0 +1,1 @@
+C-strings. In C programming, the collection of characters is stored in the form of arrays, this is also supported in C++ programming. Hence it's called C-strings. C-strings are arrays of type char terminated with null character, that is, \0 (ASCII value of null character is 0).
