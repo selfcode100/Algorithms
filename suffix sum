@@ -1,0 +1,2 @@
+One insight which can be drawn is that if the sum of all elements of the given array is divided by n+1, then the last and the first element of a prefix and suffix array is obtained respectively.
+This conclusion can be drawn by observing the elements of the prefix and suffix array. The sum of 1st element of prefix array and 2nd element of suffix array is equal to the sum of 2nd element of prefix array and 3rd element of suffix array(if there is a third element in the suffix array) and so on.
